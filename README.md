@@ -1,14 +1,13 @@
 # XO-Project
 
-
-#PUROSE
+Purpose
 a game for fun
 
-#DATA OF REALEASE
+Date Of Realease
 01/04/2016
 
-#LANGUAGE
+Language
 c++
 
-#PROJECT DISCPREPTION
+Project Discreption
 it is a project to make xo game
